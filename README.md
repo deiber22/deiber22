@@ -1,8 +1,8 @@
 ## Hola, soy DeiberDevs👋
 
-¡Bienvenidos a mi cuenta de GitHub! Esta cuenta ha sido recientemente creada y, por ahora, solo tengo algunos proyectos cargados, pero en el futuro se irán subiendo más. Estoy trabajando en varios proyectos de desarrollo y aprenderé nuevas tecnologías a medida que avance.
+¡Bienvenidos a mi cuenta de GitHub! Esta cuenta ha sido recientemente creada y, por ahora, solo he publicado mi portafolio que esta en proceso. Tengo planes de agregar todos mis proyectos de sofware en mi cuenta. Actualmente, estoy trabajando en varios proyectos de desarrollo y aprendiendo nuevas tecnologías a medida que avanzo.
 
-¡Mantente al tanto para ver lo que viene!
+¡Mantente al tanto para ver los próximos proyectos que compartiré pronto!
 
 <!--
 **deiber22/deiber22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
