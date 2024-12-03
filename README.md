@@ -1,6 +1,6 @@
 ## Hola, soy DeiberDevs👋
 
-¡Bienvenidos a mi cuenta de GitHub! Esta cuenta ha sido recientemente creada y, por ahora, solo he publicado mi portafolio que esta en proceso. Tengo planes de agregar todos mis proyectos de sofware en mi cuenta. Actualmente, estoy trabajando en varios proyectos de desarrollo y aprendiendo nuevas tecnologías a medida que avanzo.
+¡Bienvenidos a mi cuenta de GitHub! Esta cuenta ha sido recientemente creada y, por ahora, solo he publicado mi portafolio que esta en proceso. Tengo planes de agregar todos mis proyectos de sofware a esta cuenta. Actualmente, estoy trabajando en varios proyectos de desarrollo y aprendiendo nuevas tecnologías a medida que avanzo.
 
 ¡Mantente al tanto para ver los próximos proyectos que compartiré pronto!
 
