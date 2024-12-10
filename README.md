@@ -9,7 +9,7 @@
         <a href="https://www.linkedin.com/in/deiber-alejandro-riobo-tique-789262266/">
             <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
-        <a href="https://discord.com/channels/@me/1303184085459402753">
+        <a href="https://discord.com/channels/1316156478654119966/1316156782946816040">
             <img src="https://img.shields.io/badge/discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/>
         </a>
         <a href="https://www.instagram.com/r.t_alejandro7/">
